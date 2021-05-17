@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Xiaoshuang Chen is currently a Doctor of Philosophy in the Data and Knowledge Research Group at [The University of New South Wales](https://unsw.edu.au/). She got her Ph.D. from [The University of New South Wales](https://unsw.edu.au/) in 2021 (advised by UNSW Scientia [Prof. Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/) and [Prof. Wenjie Zhang](https://www.cse.unsw.edu.au/~zhangw/)). She got her master and bachelor degree from [Tongji University](https://en.tongji.edu.cn/). Her research interests lie in big data analytics, especially for the graph/network and spatial data.
+Xiaoshuang Chen is currently a Doctor of Philosophy in the Data and Knowledge Research Group at [The University of New South Wales](https://unsw.edu.au/). She got her Ph.D. from [The University of New South Wales](https://unsw.edu.au/) in 2021 (advised by UNSW Scientia [Prof. Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/) and [Prof. Wenjie Zhang](https://www.cse.unsw.edu.au/~zhangw/)). She got her master and bachelor degree from [Tongji University](https://en.tongji.edu.cn/). Her research interests lie in big data analytics.
 
 Publications (* indicates corresponding author)
 ======
