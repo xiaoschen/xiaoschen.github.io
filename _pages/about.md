@@ -30,3 +30,6 @@ Academic Services
 Teaching
 ======
 - Tutor for Database Systems (COMP9311) and Data Science and Decisions (DATA1001)
+
+# Honors
+======
