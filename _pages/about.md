@@ -32,9 +32,9 @@ Teaching
 - Tutor for Database Systems (COMP9311) - 2018 S1, 2018 S2, 2019 T1, 2019 T3, 2020 T1, 2020 T3, 2021 T1
 - Tutor for Data Science and Decisions (DATA1001) - 2018 S2, 2019 T2, 2020 T2
 
-Honors
+Honors and Awards
 ======
-- The Second Prize of National Post-Graduate Mathematical Contest in Modelling, Tongji University, 2015
+- Second Prize, the National Post-Graduate Mathematical Contest in Modelling, Tongji University, 2015
 - Excellent Graduate of Shanghai, Tongji University, 2014
 - Excellent Student of Tongji University, Tongji University, 2014
-- Meritorious Winner of the American Mathematical contest in Modelling, Tongji University, 2012
+- Meritorious Winner, the American Mathematical contest in Modelling, Tongji University, 2012
