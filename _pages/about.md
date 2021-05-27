@@ -21,7 +21,7 @@ Publications
 
 Talks
 ======
-- Unveiling Critical Node-to-Node Relationships for Complex Network Analysis (Tutorial). Wangxuan Forum, Peking University, 2021.
+- Unveiling Critical Node-to-Node Relationships for Complex Network Analysis. Wangxuan Forum, Peking University, 2021.
 
 Academic Services
 ======
