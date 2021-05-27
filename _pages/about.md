@@ -25,6 +25,7 @@ Talks
 
 Academic Services
 ======
+- Program Committee: CIKM 2022 (short paper).
 - (External) Conference/Journal Reviewer: KDD, VLDB, ICDE, WWWJ, DASFAA, CIKM, SpatialDI, etc. 
 
 Teaching
