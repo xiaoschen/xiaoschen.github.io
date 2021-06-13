@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Xiaoshuang Chen is currently a Ph.D. candidate in the Data and Knowledge Research Group at [The University of New South Wales](https://unsw.edu.au/) (advised by UNSW Scientia [Prof. Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/)). She got her master and bachelor degrees from [Tongji University](https://en.tongji.edu.cn/). Her research interests lie in big data analytics.
+Xiaoshuang Chen is currently a postdocal research fellow in the Data and Knowledge Research Group at [The University of New South Wales](https://unsw.edu.au/) (advised by UNSW Scientia [Prof. Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/)). From July 2017 to May 2021, she was a Ph.D. student in the Data and Knowledge research Group, supervised by Scientia Prof. Xuemin Lin. She got her master and bachelor degrees from [Tongji University](https://en.tongji.edu.cn/). Her research interests lie in the areas of graph databases and efficient query algorithms.
 
 Publications
 ======
