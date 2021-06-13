@@ -15,7 +15,7 @@ Publications
 2.	**Xiaoshuang Chen**, Longbin Lai, Lu Qin, Xuemin Lin, and Boge Liu. “A Framework to Quantify Approximate Simulation on Graph Data.” IEEE International Conference on Data Engineering (**ICDE**), to appear, 2021.
 3.	**Xiaoshuang Chen**, Longbin Lai, Lu Qin, and Xuemin Lin. "Efficient structural node similarity computation on billion-scale graphs." The VLDB Journal (**VLDBJ**), 2021: 1-23.  
 4.	**Xiaoshuang Chen**, Longbin Lai, Lu Qin, and Xuemin Lin. "Structsim: Querying structural node similarity at billion scale." IEEE International Conference on Data Engineering (**ICDE**) pp. 1950-1953. 
-5.	Qi Kang, **XiaoShuang Chen**, SiSi Li, and MengChu Zhou. "A noise-filtered under-sampling scheme for imbalanced classification." IEEE transactions on cybernetics 47, no. 12 (2016): 4263-4274.
+5.	Qi Kang, **XiaoShuang Chen**, SiSi Li, and MengChu Zhou. "A noise-filtered under-sampling scheme for imbalanced classification." IEEE Transactions on Cybernetics 47, no. 12 (2016): 4263-4274.
 6.	**Xiaoshuang Chen**. "Simulation-based Approximate Graph Pattern Matching." In ACM SIGMOD International Conference on Management of Data (**SIGMOD**), pp. 2825-2827. 2020.
 7.	**Xiaoshuang Chen**, Qi Kang, MengChu Zhou, and Zhi Wei. "A novel under-sampling algorithm based on iterative-partitioning filters for imbalanced classification." In 2016 IEEE International Conference on Automation Science and Engineering (CASE), pp. 490-494. IEEE, 2016.
 
