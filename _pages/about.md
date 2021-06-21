@@ -28,8 +28,9 @@ Academic Services
 - Program Committee: CIKM 2021 (short paper).
 - (External) Conference/Journal Reviewer: KDD, VLDB, ICDE, WWWJ, DASFAA, CIKM, SpatialDI, etc. 
 
-Teaching (TA)
+Teaching
 ======
+- Guest lecture for Data Analytics for Graphs (COMP9312) - 2021 T2
 - Tutor for Database Systems (COMP9311) - 2018 S1, 2018 S2, 2019 T1, 2019 T3, 2020 T1, 2020 T3, 2021 T1
 - Tutor for Data Science and Decisions (DATA1001) - 2018 S2, 2019 T2, 2020 T2
 
