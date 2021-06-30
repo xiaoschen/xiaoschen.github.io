@@ -30,7 +30,7 @@ Academic Services
 - Invited Journal Reviewer:
   - VLDBJ
   - WWWJ
-- (External) Conference/Journal Reviewer: KDD, VLDB, ICDE, WWWJ, DASFAA, CIKM, SpatialDI, etc. 
+- (External) Conference/Journal Reviewer: KDD, VLDB, ICDE, TKDE, DASFAA, CIKM, SpatialDI, etc. 
 
 Teaching
 ======
