@@ -26,10 +26,10 @@ Talks
 Academic Services
 ======
 - Program Committee: 
-- - CIKM 2021 (short paper).
+  - CIKM 2021 (short paper).
 - Invited Journal Reviewer:
-- - VLDBJ
-- - WWWJ
+  - VLDBJ
+  - WWWJ
 - (External) Conference/Journal Reviewer: KDD, VLDB, ICDE, WWWJ, DASFAA, CIKM, SpatialDI, etc. 
 
 Teaching
