@@ -26,7 +26,7 @@ Talks
 Academic Services
 ======
 - Program Committee: 
-  - CIKM 2021 (short paper).
+  - CIKM 2021 (short paper)
 - Invited Journal Reviewer:
   - VLDBJ
   - WWWJ
@@ -34,12 +34,16 @@ Academic Services
 
 Teaching
 ======
-- Guest Lecturer for Data Analytics for Graphs (COMP9312) - 2021 T2
-- Tutor for Database Systems (COMP9311) - 2018 S1, 2018 S2, 2019 T1, 2019 T3, 2020 T1, 2020 T3, 2021 T1
-- Tutor for Data Science and Decisions (DATA1001) - 2018 S2, 2019 T2, 2020 T2
+- Guest Lecturer for Data Analytics for Graphs (COMP9312) 
+  - 2021 T2
+- Tutor for Database Systems (COMP9311)
+  - 2021 T1, 2020 T3, 2020 T1, 2019 T3, 2019 T1, 2018 S2, 2018 S1
+- Tutor for Data Science and Decisions (DATA1001) 
+  - 2020 T2, 2019 T2, 2018 S1
 
 Honors and Awards
 ======
+- HDR Foundation Fellowship, The University of New South Wales, 2021
 - Second Prize, the National Post-Graduate Mathematical Contest in Modelling, Tongji University, 2015
 - Excellent Graduate of Shanghai, Tongji University, 2014
 - Excellent Student of Tongji University, Tongji University, 2014
