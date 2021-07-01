@@ -44,6 +44,7 @@ Teaching
 Honors and Awards
 ======
 - HDR Foundation Fellowship, The University of New South Wales, 2021
+- VLDB Endowment grants, 2021
 - Second Prize, the National Post-Graduate Mathematical Contest in Modelling, Tongji University, 2015
 - Excellent Graduate of Shanghai, Tongji University, 2014
 - Excellent Student of Tongji University, Tongji University, 2014
