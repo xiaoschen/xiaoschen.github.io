@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xiaoshuang Chen"
+title: "Xiaoshuang Chen's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
