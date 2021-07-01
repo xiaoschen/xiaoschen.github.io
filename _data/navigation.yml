@@ -2,16 +2,16 @@
 main:
   - title: "Publications"
     url: /#publications
+ 
+  - title: "Academia Services"
+    url: /#academic-services
 
   - title: "Talks"
     url: /#talks 
 
   - title: "Teaching"
     url: /#teaching  
-  
-  - title: "Academia Services"
-    url: /#academic-services
-  
+ 
   - title: "Honors"
     url: /#honors-and-awards
     
