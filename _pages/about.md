@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Xiaoshuang Chen's Homepage"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Xiaoshuang Chen is currently a postdocal research fellow in the Data and Knowledge Research Group at [The University of New South Wales](https://unsw.edu.au/) (advised by UNSW Scientia [Prof. Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/)). From July 2017 to May 2021, she was a Ph.D. student in the Data and Knowledge research Group, supervised by Scientia Prof. Xuemin Lin. She got her master and bachelor degrees from [Tongji University](https://en.tongji.edu.cn/). Her research interests lie in the areas of graph databases and efficient query algorithms.
+I am currently a postdocal research fellow in the Data and Knowledge Research Group at [The University of New South Wales](https://unsw.edu.au/) (advised by UNSW [Scientia Professor Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/)). From July 2017 to May 2021, I was a Ph.D. student in the Data and Knowledge research Group, supervised by Prof. Xuemin Lin. I received my master and bachelor degrees from [Tongji University](https://en.tongji.edu.cn/). My research interests lie in the areas of graph databases and efficient query algorithms.
 
 Publications
 ======
@@ -19,10 +19,6 @@ Publications
 6.	**Xiaoshuang Chen**. "Simulation-based Approximate Graph Pattern Matching." In ACM SIGMOD International Conference on Management of Data (**SIGMOD**), pp. 2825-2827. 2020.
 7.	**Xiaoshuang Chen**, Qi Kang, MengChu Zhou, and Zhi Wei. "A novel under-sampling algorithm based on iterative-partitioning filters for imbalanced classification." In 2016 IEEE International Conference on Automation Science and Engineering (CASE), pp. 490-494. IEEE, 2016.
 
-Talks
-======
-- Unveiling Critical Node-to-Node Relationships for Complex Network Analysis. Wangxuan Forum, Peking University, 2021.
-
 Academic Services
 ======
 - Program Committee: 
@@ -31,6 +27,10 @@ Academic Services
   - VLDBJ
   - WWWJ
 - (External) Conference/Journal Reviewer: KDD, VLDB, ICDE, TKDE, DASFAA, CIKM, SpatialDI, etc. 
+
+Talks
+======
+- Unveiling Critical Node-to-Node Relationships for Complex Network Analysis. Wangxuan Forum, Peking University, 2021.
 
 Teaching
 ======
