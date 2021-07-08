@@ -23,6 +23,7 @@ Academic Services
 ======
 - Program Committee: 
   - CIKM 2021 (short paper)
+  - WISE 2021
 - Invited Journal Reviewer:
   - VLDBJ
   - WWWJ
