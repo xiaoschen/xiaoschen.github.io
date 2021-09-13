@@ -22,12 +22,14 @@ Publications
 Academic Services
 ======
 - Program Committee: 
-  - CIKM 2021 (short paper)
+  - AAAI 2022
   - WISE 2021
+  - CIKM 2021 (short paper)
 - Invited Journal Reviewer:
   - VLDBJ
+  - TKDE
   - WWWJ
-- (External) Conference/Journal Reviewer: KDD, VLDB, ICDE, TKDE, DASFAA, CIKM, SpatialDI, etc. 
+- (External) Conference/Journal Reviewer: KDD, VLDB, ICDE, DASFAA, CIKM, SpatialDI, etc. 
 
 Talks
 ======
@@ -44,9 +46,7 @@ Teaching
 
 Honors and Awards
 ======
-- HDR Foundation Fellowship, The University of New South Wales, 2021
+- HDR Foundation Fellowship, University of New South Wales, 2021
 - VLDB Endowment grants, 2021
-- Second Prize, the National Post-Graduate Mathematical Contest in Modelling, Tongji University, 2015
 - Excellent Graduate of Shanghai, Tongji University, 2014
 - Excellent Student of Tongji University, Tongji University, 2014
-- Meritorious Winner, the American Mathematical contest in Modelling, Tongji University, 2012
