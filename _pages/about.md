@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a postdoctoral fellow in the Data and Knowledge Research Group at [The University of New South Wales](https://unsw.edu.au/) (advised by UNSW [Scientia Professor Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/)). From July 2017 to May 2021, I was a Ph.D. student in the Data and Knowledge research Group, supervised by Prof. Xuemin Lin. I received my master and bachelor degrees from [Tongji University](https://en.tongji.edu.cn/). My research interests lie in the areas of graph databases and efficient query algorithms.
+I am currently a postdoctoral fellow in the Data and Knowledge Research Group at [The University of New South Wales](https://unsw.edu.au/) (advised by UNSW [Scientia Professor Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/)). I obtained my Ph.D. from The University of New South Wales in 2021. I received my master and bachelor degrees from [Tongji University](https://en.tongji.edu.cn/). My research interests lie in the areas of graph databases and efficient query algorithms.
 
 Publications
 ======
@@ -21,10 +21,12 @@ Publications
 
 Academic Services
 ======
+- Organization Committee:
+  - Local Organization Chair of [WISE 2021](http://www.wise-conferences.org/2021/organizing-committee.html)
 - Program Committee: 
-  - AAAI 2022
-  - WISE 2021
-  - CIKM 2021 (short paper)
+  - [AAAI 2022](https://aaai.org/Conferences/AAAI-22/)
+  - [WISE 2021](http://www.wise-conferences.org/2021/index.html)
+  - [CIKM 2021](https://www.cikm2021.org/) (short paper)
 - Invited Journal Reviewer:
   - VLDBJ
   - TKDE
