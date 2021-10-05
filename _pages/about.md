@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a postdoctoral fellow in the Data and Knowledge Research Group at [The University of New South Wales](https://unsw.edu.au/) (advised by UNSW [Scientia Professor Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/)). I obtained my Ph.D. from The University of New South Wales in 2021. I received my master and bachelor degrees from [Tongji University](https://en.tongji.edu.cn/). My research interests lie in the areas of graph databases and efficient query algorithms.
+I am currently a postdoctoral fellow in the Data and Knowledge Research Group at [The University of New South Wales](https://unsw.edu.au/) (advised by UNSW [Scientia Professor Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/)). I obtained my Ph.D. from The University of New South Wales in 2021, and received my master and bachelor degrees from [Tongji University](https://en.tongji.edu.cn/). My research interests lie in the areas of graph databases and efficient query algorithms.
 
 Publications
 ======
