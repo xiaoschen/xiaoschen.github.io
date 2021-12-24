@@ -11,7 +11,7 @@ I am currently a postdoctoral fellow in the Data and Knowledge Research Group at
 
 Publications
 ======
-1.  **Xiaoshuang Chen**, Kai Wang, Xuemin Lin, Wenjie Zhang, Lu Qin, and Ying ZHang. “Efficiently Answering Reachability and Path Queries on Temporal Bipartite Graphs.” International Conference on Very Large Data Bases (**VLDB**), to appear, 2021.
+1.  **Xiaoshuang Chen**, Kai Wang, Xuemin Lin, Wenjie Zhang, Lu Qin, and Ying ZHang. “Efficiently Answering Reachability and Path Queries on Temporal Bipartite Graphs.” International Conference on Very Large Data Bases (**VLDB**), 2021: 1845-1858.
 2.	**Xiaoshuang Chen**, Longbin Lai, Lu Qin, Xuemin Lin, and Boge Liu. “A Framework to Quantify Approximate Simulation on Graph Data.” IEEE International Conference on Data Engineering (**ICDE**), 2021: 1308-1319.
 3.	**Xiaoshuang Chen**, Longbin Lai, Lu Qin, and Xuemin Lin. "Efficient structural node similarity computation on billion-scale graphs." The VLDB Journal (**VLDBJ**), 2021: 1-23.  
 4.	**Xiaoshuang Chen**, Longbin Lai, Lu Qin, and Xuemin Lin. "Structsim: Querying structural node similarity at billion scale." IEEE International Conference on Data Engineering (**ICDE**) pp. 1950-1953. 
@@ -24,9 +24,8 @@ Academic Services
 - Organization Committee:
   - Local Organization Chair of [WISE 2021](http://www.wise-conferences.org/2021/organizing-committee.html)
 - Program Committee: 
-  - [AAAI 2022](https://aaai.org/Conferences/AAAI-22/)
-  - [WISE 2021](http://www.wise-conferences.org/2021/index.html)
-  - [CIKM 2021](https://www.cikm2021.org/) (short paper)
+  - [AAAI 2022](https://aaai.org/Conferences/AAAI-22/), [ICDE 2022](https://icde2022.ieeecomputer.my/), [WISE 2022]
+  - [WISE 2021](http://www.wise-conferences.org/2021/index.html), [CIKM 2021](https://www.cikm2021.org/) (short paper)
 - Invited Journal Reviewer:
   - VLDBJ
   - TKDE
