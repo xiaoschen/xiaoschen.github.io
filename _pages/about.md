@@ -25,8 +25,8 @@ Academic Services
   - Local Organization Chair of [WISE 2021](http://www.wise-conferences.org/2021/organizing-committee.html)
 - Program Committee: 
   - [AAAI 2022](https://aaai.org/Conferences/AAAI-22/)
-  - [ICDE 2022 (TKDE poster track)](https://icde2022.ieeecomputer.my/)
-  - WISE 2022, [2021](http://www.wise-conferences.org/2021/index.html), 
+  - [ICDE 2022](https://icde2022.ieeecomputer.my/)(TKDE poster track)
+  - WISE 2022, [2021](http://www.wise-conferences.org/2021/index.html)
   - [CIKM 2021](https://www.cikm2021.org/) (short paper)
 - Invited Journal Reviewer:
   - VLDBJ
