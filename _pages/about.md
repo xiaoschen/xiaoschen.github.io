@@ -11,8 +11,8 @@ I am currently a postdoctoral fellow in the Data and Knowledge Research Group at
 
 Publications
 ======
-1. **Xiaoshuang Chen**, Long Yuan, Wenjie Zhang, and Ying ZHang. "Reachability on Large-scale Graphs: Models, Techniques, and Trends." (tutorial) International Conference on Database Systems for Advanced Applications (**DASFAA**), 2022, to appear.
-2.  **Xiaoshuang Chen**, Kai Wang, Xuemin Lin, Wenjie Zhang, Lu Qin, and Ying ZHang. “Efficiently Answering Reachability and Path Queries on Temporal Bipartite Graphs.” International Conference on Very Large Data Bases (**VLDB**), 2021: 1845-1858.
+1. **Xiaoshuang Chen**, Long Yuan, Wenjie Zhang, and Ying Zhang. "Reachability on Large-scale Graphs: Models, Techniques, and Trends." (tutorial) International Conference on Database Systems for Advanced Applications (**DASFAA**), 2022, to appear.
+2.  **Xiaoshuang Chen**, Kai Wang, Xuemin Lin, Wenjie Zhang, Lu Qin, and Ying Zhang. “Efficiently Answering Reachability and Path Queries on Temporal Bipartite Graphs.” International Conference on Very Large Data Bases (**VLDB**), 2021: 1845-1858.
 3.	**Xiaoshuang Chen**, Longbin Lai, Lu Qin, Xuemin Lin, and Boge Liu. “A Framework to Quantify Approximate Simulation on Graph Data.” IEEE International Conference on Data Engineering (**ICDE**), 2021: 1308-1319.
 4.	**Xiaoshuang Chen**, Longbin Lai, Lu Qin, and Xuemin Lin. "Efficient structural node similarity computation on billion-scale graphs." The VLDB Journal (**VLDBJ**), 2021: 1-23.  
 5.	**Xiaoshuang Chen**, Longbin Lai, Lu Qin, and Xuemin Lin. "Structsim: Querying structural node similarity at billion scale." IEEE International Conference on Data Engineering (**ICDE**) pp. 1950-1953. 
